@@ -1,0 +1,39 @@
+[
+    {
+        "opinion_id": "13530217",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-12-08 20:43:31",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "16139679",
+        "author": "swdmfan",
+        "recomendation": "Nie polecam",
+        "score": "1/5",
+        "pros": [
+            "pojemność"
+        ],
+        "cons": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna"
+        ],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-05-27 17:29:02",
+        "purchase_date": null
+    }
+]

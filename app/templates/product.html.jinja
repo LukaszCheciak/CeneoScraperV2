@@ -1,4 +1,25 @@
 {% extends "base.html.jinja" %}
 {% block content %}
-    <p>{{product_id}}</p>
-{% endblock content %}
+    <div class="container">
+  <div class="row">
+    <div class="col">
+        <img src="/static/plots/{{ product_id }}_recomendation.png" class="rounded mx-auto d-block" alt="Recommendation">
+    </div>
+    <div class="col">
+        <img src="/static/plots/{{ product_id }}_stars.png" class="rounded mx-auto d-block" alt="Stars">
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block content2 %}
+    <div style="overflow: scroll; max-height: 60vh; width: 100%">
+    {% for table in tables %}
+            {{ table|safe }}
+    </div>
+{% endfor %}
+    <div class="d-flex justify-content-start align-items-start mt-3">
+    <button type="button" class="btn btn-primary me-3" onclick="window.location.href='/static/opinions/{{ product_id }}.json'">JSON</button>
+    <button type="button" class="btn btn-primary me-3" onclick="window.location.href='/static/opinions/{{ product_id }}.csv'">CSV</button>
+    <button type="button" class="btn btn-primary" onclick="window.location.href='/static/opinions/{{ product_id }}.xlsx'">XLSX</button>
+    </div>
+{% endblock %}

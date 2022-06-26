@@ -1,0 +1,1126 @@
+[
+    {
+        "opinion_id": "14719424",
+        "author": "i...1",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "2",
+        "useless": "0",
+        "publish_date": "2021-07-14 12:03:14",
+        "purchase_date": "2021-07-07 06:47:40"
+    },
+    {
+        "opinion_id": "10503847",
+        "author": "Artec",
+        "recomendation": null,
+        "score": "3/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "8",
+        "useless": "7",
+        "publish_date": "2019-05-10 14:16:32",
+        "purchase_date": "2019-05-02 18:48:00"
+    },
+    {
+        "opinion_id": "13087684",
+        "author": "b...k",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "1",
+        "useless": "2",
+        "publish_date": "2020-09-15 21:55:02",
+        "purchase_date": "2020-08-25 15:06:58"
+    },
+    {
+        "opinion_id": "11175739",
+        "author": "Jacek",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "4",
+        "useless": "0",
+        "publish_date": "2019-10-19 17:03:54",
+        "purchase_date": "2019-10-14 16:10:14"
+    },
+    {
+        "opinion_id": "10621393",
+        "author": "Paweł",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "jakość wykończenia",
+            "oświetlenie",
+            "pojemność"
+        ],
+        "cons": [],
+        "usefull": "2",
+        "useless": "0",
+        "publish_date": "2019-06-05 21:24:41",
+        "purchase_date": "2019-05-06 19:04:53"
+    },
+    {
+        "opinion_id": "10657627",
+        "author": "Julia",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "4",
+        "useless": "0",
+        "publish_date": "2019-06-13 21:29:23",
+        "purchase_date": "2019-06-03 21:21:03"
+    },
+    {
+        "opinion_id": "10962431",
+        "author": "Waldemar",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "1",
+        "useless": "0",
+        "publish_date": "2019-08-25 22:07:27",
+        "purchase_date": "2019-08-19 13:00:48"
+    },
+    {
+        "opinion_id": "11306062",
+        "author": "marek",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "2",
+        "useless": "0",
+        "publish_date": "2019-11-21 16:25:07",
+        "purchase_date": "2019-11-06 10:40:28"
+    },
+    {
+        "opinion_id": "12675535",
+        "author": "l...2",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "2",
+        "useless": "2",
+        "publish_date": "2020-06-18 16:29:53",
+        "purchase_date": "2020-06-10 06:03:49"
+    },
+    {
+        "opinion_id": "13755487",
+        "author": "d...i",
+        "recomendation": "Nie polecam",
+        "score": "1/5",
+        "pros": [],
+        "cons": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "usefull": "5",
+        "useless": "3",
+        "publish_date": "2021-01-12 16:16:32",
+        "purchase_date": "2020-12-12 13:32:19"
+    },
+    {
+        "opinion_id": "8785428",
+        "author": "Kamila",
+        "recomendation": null,
+        "score": "3,5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-12-21 07:14:19",
+        "purchase_date": "2018-11-19 15:12:12"
+    },
+    {
+        "opinion_id": "14522259",
+        "author": "j...a",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-05-27 12:21:30",
+        "purchase_date": "2021-04-07 12:45:20"
+    },
+    {
+        "opinion_id": "14576616",
+        "author": "b...2",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-06-09 11:47:57",
+        "purchase_date": "2021-06-01 19:35:33"
+    },
+    {
+        "opinion_id": "10189388",
+        "author": "Alexandra",
+        "recomendation": "Polecam",
+        "score": "4,5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-03-04 15:29:31",
+        "purchase_date": "2019-02-27 08:20:36"
+    },
+    {
+        "opinion_id": "16022994",
+        "author": "m...a",
+        "recomendation": "Polecam",
+        "score": "4,5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-04-28 23:05:24",
+        "purchase_date": "2022-04-13 09:37:15"
+    },
+    {
+        "opinion_id": "10958033",
+        "author": "kamil",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "pros": [
+            "klasa energetyczna"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-08-23 18:40:42",
+        "purchase_date": "2019-08-02 18:02:05"
+    },
+    {
+        "opinion_id": "10926525",
+        "author": "Ewa",
+        "recomendation": "Polecam",
+        "score": "4,5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-08-16 17:12:29",
+        "purchase_date": "2019-07-14 13:19:43"
+    },
+    {
+        "opinion_id": "10149491",
+        "author": "Klaudia",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "1",
+        "useless": "1",
+        "publish_date": "2019-02-24 19:17:26",
+        "purchase_date": "2019-01-24 13:35:00"
+    },
+    {
+        "opinion_id": "11135085",
+        "author": "Andrzej",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-11-01 16:57:51",
+        "purchase_date": "2019-09-29 17:38:24"
+    },
+    {
+        "opinion_id": "16191662",
+        "author": "Jola",
+        "recomendation": "Polecam",
+        "score": "4,5/5",
+        "pros": [
+            "głośność pracy",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-06-09 17:22:42",
+        "purchase_date": "2022-06-02 16:05:43"
+    },
+    {
+        "opinion_id": "12381047",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-05-08 22:46:09",
+        "purchase_date": "2020-04-07 13:35:34"
+    },
+    {
+        "opinion_id": "10513894",
+        "author": "DjGrab",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "1",
+        "useless": "0",
+        "publish_date": "2019-05-13 10:59:15",
+        "purchase_date": "2019-04-18 09:29:32"
+    },
+    {
+        "opinion_id": "10451230",
+        "author": "stanislaw",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-04-26 20:12:40",
+        "purchase_date": "2019-03-30 17:31:54"
+    },
+    {
+        "opinion_id": "15361596",
+        "author": "kacper.fehlau5678*****",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-12-14 12:24:10",
+        "purchase_date": "2021-12-09 16:50:12"
+    },
+    {
+        "opinion_id": "11922768",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-03-17 12:15:12",
+        "purchase_date": "2020-03-12 20:56:38"
+    },
+    {
+        "opinion_id": "14521566",
+        "author": "k...5",
+        "recomendation": "Polecam",
+        "score": "4,5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-05-27 11:04:56",
+        "purchase_date": "2020-07-31 13:34:11"
+    },
+    {
+        "opinion_id": "13762062",
+        "author": "martynaguzparalu",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [
+            "głośność pracy"
+        ],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-01-13 13:12:23",
+        "purchase_date": "2021-01-10 13:15:21"
+    },
+    {
+        "opinion_id": "12737135",
+        "author": "D...0",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-06-30 16:04:23",
+        "purchase_date": "2020-06-22 12:36:07"
+    },
+    {
+        "opinion_id": "14761313",
+        "author": "t...n",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-07-24 10:45:36",
+        "purchase_date": "2021-07-08 16:28:36"
+    },
+    {
+        "opinion_id": "15379673",
+        "author": "m...6",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-12-16 16:56:22",
+        "purchase_date": "2021-11-15 17:36:56"
+    },
+    {
+        "opinion_id": "15714630",
+        "author": "a...1",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-02-17 09:47:28",
+        "purchase_date": "2022-01-17 10:05:54"
+    },
+    {
+        "opinion_id": "13662189",
+        "author": "a...i",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-12-28 15:14:03",
+        "purchase_date": "2020-12-22 11:24:54"
+    },
+    {
+        "opinion_id": "13770945",
+        "author": "t...i",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-01-14 14:36:53",
+        "purchase_date": "2021-01-11 17:20:25"
+    },
+    {
+        "opinion_id": "12979214",
+        "author": "e...5",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-08-20 06:14:40",
+        "purchase_date": "2020-08-12 18:16:08"
+    },
+    {
+        "opinion_id": "14851335",
+        "author": "k...k",
+        "recomendation": "Polecam",
+        "score": "4,5/5",
+        "pros": [
+            "głośność pracy",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-08-17 18:43:11",
+        "purchase_date": "2021-08-02 18:18:25"
+    },
+    {
+        "opinion_id": "13770297",
+        "author": "a...6",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-01-14 12:52:06",
+        "purchase_date": "2021-01-07 19:55:28"
+    },
+    {
+        "opinion_id": "13713242",
+        "author": "m...4",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-01-05 12:20:51",
+        "purchase_date": "2020-12-19 00:01:16"
+    },
+    {
+        "opinion_id": "8654364",
+        "author": "Wioletta",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-12-01 15:30:19",
+        "purchase_date": "2018-11-21 10:42:21"
+    },
+    {
+        "opinion_id": "14803806",
+        "author": "b...2",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-08-04 21:39:33",
+        "purchase_date": "2021-07-14 17:21:02"
+    },
+    {
+        "opinion_id": "13993036",
+        "author": "Sylwia",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-02-20 16:12:04",
+        "purchase_date": "2021-02-04 17:50:28"
+    },
+    {
+        "opinion_id": "15315816",
+        "author": "t...k",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-12-06 23:04:45",
+        "purchase_date": "2021-11-29 19:56:39"
+    },
+    {
+        "opinion_id": "15236683",
+        "author": "s...y",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [
+            "głośność pracy",
+            "klasa energetyczna"
+        ],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-11-21 08:02:53",
+        "purchase_date": "2021-11-14 18:16:45"
+    },
+    {
+        "opinion_id": "8654210",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-12-01 12:54:27",
+        "purchase_date": "2018-11-14 12:26:47"
+    },
+    {
+        "opinion_id": "16038075",
+        "author": "m...i",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-05-04 07:49:02",
+        "purchase_date": "2022-04-11 11:45:55"
+    },
+    {
+        "opinion_id": "15141411",
+        "author": "n...2",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-10-29 06:55:39",
+        "purchase_date": "2021-10-20 08:00:48"
+    },
+    {
+        "opinion_id": "13818151",
+        "author": "m...r",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-01-21 22:48:20",
+        "purchase_date": "2021-01-02 20:00:18"
+    },
+    {
+        "opinion_id": "8289964",
+        "author": "Piotr",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-08-27 21:07:49",
+        "purchase_date": "2018-08-15 19:08:36"
+    },
+    {
+        "opinion_id": "15258523",
+        "author": "m...3",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-11-25 10:35:26",
+        "purchase_date": "2021-11-18 10:44:44"
+    },
+    {
+        "opinion_id": "14892307",
+        "author": "r...1",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-08-27 09:52:21",
+        "purchase_date": "2021-08-16 09:55:15"
+    },
+    {
+        "opinion_id": "13683760",
+        "author": "j...i",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-12-30 19:44:23",
+        "purchase_date": "2020-12-22 11:48:36"
+    },
+    {
+        "opinion_id": "12609543",
+        "author": "i...y",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-06-08 13:12:44",
+        "purchase_date": "2020-06-03 07:37:33"
+    },
+    {
+        "opinion_id": "15269966",
+        "author": "b...6",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-11-27 17:34:31",
+        "purchase_date": "2021-11-21 20:14:14"
+    },
+    {
+        "opinion_id": "15932956",
+        "author": "m...4",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-04-07 21:15:48",
+        "purchase_date": "2022-03-08 16:31:14"
+    },
+    {
+        "opinion_id": "15904145",
+        "author": "n...9",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-04-01 13:21:57",
+        "purchase_date": "2022-03-28 18:12:22"
+    },
+    {
+        "opinion_id": "15420591",
+        "author": "k...o",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-12-24 07:24:18",
+        "purchase_date": "2021-11-23 15:04:52"
+    },
+    {
+        "opinion_id": "12461308",
+        "author": "A...1",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-05-19 12:22:30",
+        "purchase_date": "2020-04-24 13:54:28"
+    },
+    {
+        "opinion_id": "11558786",
+        "author": "Teresa",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-01-11 17:31:22",
+        "purchase_date": "2020-01-04 16:00:17"
+    },
+    {
+        "opinion_id": "13332485",
+        "author": "g...8",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2020-11-06 05:32:50",
+        "purchase_date": "2020-10-14 12:05:43"
+    },
+    {
+        "opinion_id": "16061870",
+        "author": "s...a",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-05-09 21:16:30",
+        "purchase_date": "2022-04-13 19:59:24"
+    },
+    {
+        "opinion_id": "15961522",
+        "author": "o...s",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2022-04-14 13:07:34",
+        "purchase_date": "2022-04-07 10:20:45"
+    },
+    {
+        "opinion_id": "14781272",
+        "author": "j...6",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-07-29 15:44:36",
+        "purchase_date": "2021-07-26 16:41:44"
+    },
+    {
+        "opinion_id": "14676892",
+        "author": "m...7",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2021-07-02 21:05:49",
+        "purchase_date": "2021-06-12 12:31:02"
+    },
+    {
+        "opinion_id": "10089967",
+        "author": "Tomasz",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-02-13 10:25:04",
+        "purchase_date": "2019-01-24 19:03:10"
+    },
+    {
+        "opinion_id": "8602325",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "oświetlenie",
+            "pojemność"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-11-22 12:00:12",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8553148",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "pojemność"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-11-13 05:54:42",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8316870",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "jakość wykończenia",
+            "oświetlenie",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-09-05 06:27:25",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8419273",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-10-08 10:30:05",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8652905",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "1",
+        "useless": "1",
+        "publish_date": "2018-12-01 06:40:30",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8852094",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "1",
+        "publish_date": "2019-01-03 08:08:25",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "9003147",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "pros": [
+            "głośność pracy",
+            "pojemność"
+        ],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-01-29 11:09:53",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "11068025",
+        "author": "Użytkownik Ceneo",
+        "recomendation": null,
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-09-21 15:30:16",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "10958966",
+        "author": "Użytkownik Ceneo",
+        "recomendation": null,
+        "score": "4/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-08-24 02:02:50",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "10926523",
+        "author": "Użytkownik Ceneo",
+        "recomendation": null,
+        "score": "4,5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2019-08-16 17:12:21",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8602326",
+        "author": "Użytkownik Ceneo",
+        "recomendation": null,
+        "score": "5/5",
+        "pros": [],
+        "cons": [],
+        "usefull": "0",
+        "useless": "0",
+        "publish_date": "2018-11-22 11:56:50",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8253361",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Nie polecam",
+        "score": "0,5/5",
+        "pros": [],
+        "cons": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "wygoda"
+        ],
+        "usefull": "2",
+        "useless": "4",
+        "publish_date": "2018-08-16 14:13:53",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "10135777",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Nie polecam",
+        "score": "0,5/5",
+        "pros": [],
+        "cons": [
+            "głośność pracy",
+            "pojemność"
+        ],
+        "usefull": "0",
+        "useless": "1",
+        "publish_date": "2019-02-21 14:22:20",
+        "purchase_date": null
+    }
+]

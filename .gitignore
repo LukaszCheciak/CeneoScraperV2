@@ -128,10 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# IDE
+#IDE
 .vscode
 
 # project
-app/opinions/*.*
-app/products/*.*
-app/static/plots/*.*
+app/opinions/'*'
+app/static/plots/'*'
